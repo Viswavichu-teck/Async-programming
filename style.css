@@ -32,3 +32,10 @@ body {
 #startButton:hover {
     background-color: #45a049;
 }
+#container {
+    text-align: center;
+}
+
+#instruction {
+    margin-bottom: 20px;
+}
