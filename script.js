@@ -42,7 +42,6 @@ document.getElementById("startButton").addEventListener("click", function() {
             }, 1000);
         }, 1000);
     }, 1000);
-
     this.style.display = "none";
     document.getElementById("instruction").style.display = "none";
 });
